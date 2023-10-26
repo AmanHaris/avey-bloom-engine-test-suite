@@ -11,6 +11,16 @@ This tool is meant to help with rapid testing and iteration through ideas for th
 
 **Step 1:** Activate the venv
 
+Create a virtual environment (if it is initial setup):
+
+```
+python3 -m pip install --user --upgrade pip
+python3 -m pip install --user virtualenv
+python3 -m venv venv
+```
+
+Activate venv (always):
+
 ```
 source ./venv/bin/activate
 ```
@@ -21,8 +31,14 @@ source ./venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-**Step 3:** run run.py with the necessary options
+**Step 3:** run run.py
 
+Default:
+```
+python3 run.py
+```
+
+With options:
 ```
 python3 run.py -c Seib -f PLE --sampling ALL
 ```
