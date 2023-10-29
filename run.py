@@ -6,85 +6,96 @@ from tqdm import tqdm
 import matplotlib.pyplot as plt
 import numpy as np
 import functools
+import argparse
+
 
 # local imports
 from ple import ple
 from mue import mue
 from ppv import ppv
+from claims import generateClaimSet, claimSetOptions
 import claim_utils
+
 
 # setups
 tqdm.pandas()
 
+
 # globals:
-
-claims_location = 'claims/'
-# claims_seib = 'ClaimsSeib2.xlsx' TODO: accommodating multiple claim files and claim types per organization
-claims_seib = 'ClaimsSeib1.xlsx'
-claims_qic = 'ClaimsQIC.csv'
-claims_alkoot = None
-test_set = set(['Seib', 'QIC', 'AlKoot'])
-
-claimset_option = 'Seib' # placeholder until I add getopt
-
-# load files
-claims = {'Seib' : claims_seib, 'QIC' : claims_qic, 'AlKoot' : claims_alkoot}
-
-if claimset_option != 'ALL':
-    test_set = [claimset_option]
-    claims = {claimset_option : claims[claimset_option]}
+claimset_option = 'ALL'
+functions_option = 'ALL'
+functions_options = {'PLE', 'MUE', 'PPV'}
 
 
-#df_qic = pd.read_csv(claims_location + claims_qic, dtype=str, index_col=0)
+if __name__=="__main__":
 
-# TODO: at the moment, this implementation is specific to Seib, need to generalize
-for org in test_set:
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-c', type=str)
+    parser.add_argument('-f', type=str)
+    parser.add_argument('--sampling', type=str)
+    args = parser.parse_args()
 
-    df = pd.read_excel(claims_location + claims[org], dtype=str) # TODO: excel/csv depends on org
-    dict_list = df.to_dict(orient='records')
+    if args.c in claimSetOptions:
+        claimset_option = args.c
+    test_set = generateClaimSet(claimset_option)
 
-    # TODO: need to standardize claim column names before getting to  any code below here
+    if args.f in functions_options:
+        functions_option = args.f
 
-    claimsDict = claim_utils.combineByKey(dict_list, 'CLAIM NUMBER')
-    # claimsDict = claim_utils.combineByKey(dict_list, 'INSURED MEMBER', 'TRX DATE')
-    print("Total Subclaims: ", len(dict_list))
-    print("Total Claims: ", len(claimsDict))
+    print(f"Testing for {functions_option} in {claimset_option} claimset")
 
-    def __combine_icd_and_cpt(lst):
-        ICDs = []
-        CPTs = []
-        for entry in lst:
-            ICDs.append(entry['ICD CODES'].split()[0])
-            CPTs.append(entry['CPT CODES'])
-        return {"ICD" : ICDs, "CPT" : CPTs}
-        
+    for org in test_set:
+        print(f"\nRunning tests for {org.id}...")
+        for f in org.files:
+            print(f"\nTest for file {f}...\n")
+            dict_list = org.openClaimFile(f)
+            org.regularize(dict_list)
+            claimsDict = claim_utils.combineByKey(dict_list, org.group_by)
 
-    icd_cpt_list = [ {**__combine_icd_and_cpt(v), **{'ID':k}} for k,v in claimsDict.items()]
+            print("Total Subclaims: ", len(dict_list))
+            print("Total Claims: ", len(claimsDict))
 
-    def __onlySymptoms(icd_cpt_entry):
-        for code in icd_cpt_entry['ICD']:
-            if code[0] != 'R':
-                return False
-        return True
+            def __combine_icd_and_cpt(lst):
+                ICDs = []
+                CPTs = []
+                for entry in lst:
+                    ICDs.append(entry['ICD CODE'])
+                    CPTs.append(entry['CPT CODE'])
+                return {"ICD" : ICDs, "CPT" : CPTs}
+                
 
-    onlySymptomsList = [entry for entry in icd_cpt_list if __onlySymptoms(entry)]
-    # print(onlySymptomsList)
-    print("Total instances of only symptoms in claim: ", len(onlySymptomsList))
+            icd_cpt_list = [ {**__combine_icd_and_cpt(v), **{'ID':k}} for k,v in claimsDict.items()]
+
+            def __only_symptoms(icd_cpt_entry):
+                for code in icd_cpt_entry['ICD']:
+                    if code[0] != 'R':
+                        return False
+                return True
+
+            only_symptoms_list = [entry for entry in icd_cpt_list if __only_symptoms(entry)]
+            # print(onlySymptomsList)
+            print("Total instances of only symptoms in claim: ", len(only_symptoms_list))
+
+
+            ### Separating out claims with only valid CPT codes
+
+            claims_good_CPT = filter(icd_cpt_list)
+            only_symptoms_good_CPT = filter(only_symptoms_list)
 
 
 
-# run PLE
-ple() # placeholder
+        # run PLE
+        if functions_option in {'ALL', 'PLE'}:
+            ple() # placeholder
 
-# run MUE
-mue() # placeholder
+        if functions_option in {'ALL', 'MUE'}:
+            mue() # placeholder
 
-# run TPM
-ppv() # placeholder
+        if functions_option in {'ALL', 'PPV'}:
+            ppv() # placeholder
 
-# save files
-
-    # version = date + time
-    # mkdir for version
-    # store results in versioned dir
+        # save files
+            # version = date + time
+            # mkdir for version
+            # store results in versioned dir
 
