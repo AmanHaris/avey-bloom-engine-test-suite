@@ -47,6 +47,6 @@ python3 run.py -c Seib -f PLE --sampling ALL
 
 If no options are provided, the default behavior is to test through all available claim sets available, sampling all the claims, and running all the functions (PLE, MUE, PPV).
 
-- -c for claimset. At the moment, only Seib is available
+- -c for claimset. Current options are Seib, AlKoot, QLM, QIC, DIG
 - -f for function. At the moment, only PLE is available
 - --sampling for how the claimset is sampled. At the moment, only ALL is available
