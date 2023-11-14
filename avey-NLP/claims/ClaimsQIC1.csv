@@ -1,0 +1,160 @@
+Claim No,CPT Code,CPT Desc,Diagnosis Code,Diagnosis Name,Doctor Name,Speciality,Gender,In/Out Patient,Invoice No,Nationality,Payment Currency,Provider Name,Provider Service Code,Provider service Desc,QIC Treatment Desc,Benefit,Sub Benefit,Treatment Mode
+C22090131521,97112,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Neuromuscular Reeducation Of Movement, Balance, Coordination, Kinesthetic Sense, Posture, And/Or Proprioception For Sitting And/Or Standing Activities",M17,Gonarthrosis [Arthrosis Of Knee] - M17,-,Orthopedic Surgery,Female,Op,OUT5897983,British,Qatari Riyal,Al Ahli Hospital - 113716,PST0002,Physiotherapy - Regular Visit At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment
+C22090131557,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",Z34.8,Supervision Of Other Normal Pregnancy - Z34.8,-,Obstetrics And Gynecology,Female,Op,OUT5895627,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,CON0018,Consultation - Obstetrics,Gynecology Consultation,Maternity,Maternity,Consultation
+C22090131611,97112,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Neuromuscular Reeducation Of Movement, Balance, Coordination, Kinesthetic Sense, Posture, And/Or Proprioception For Sitting And/Or Standing Activities",M17,Gonarthrosis [Arthrosis Of Knee] - M17,-,Orthopedic Surgery,Female,Op,OUT5896781,American,Qatari Riyal,Al Ahli Hospital - 113716,PST0002,Physiotherapy - Regular Visit At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment
+C22090131618,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.54,"Pain In A Joint, Hand - M25.54",-,Orthopedic Surgery,Male,Op,OUT5898840,Indian,Qatari Riyal,Al Ahli Hospital - 113716,CON0065,Initial Emergency Services,Consultation,Basic,Basic,Consultation
+C22090131618,73120,"Radiologic Examination, Hand; 2 Views",M25.54,"Pain In A Joint, Hand - M25.54",-,Orthopedic Surgery,Male,Op,OUT5898840,Indian,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0036,Radiology - Digital X-Ray Hand (Right),X-Ray,Basic,Basic,Investigation
+C22090131645,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.50,"Pain In A Joint, Multiple Sites - M25.50",,Orthopedic Surgery,Female,Op,OUT5895146,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,CON0065,Initial Emergency Services,Consultation,Basic,Basic,Consultation
+C22090131645,73020,"Radiologic Examination, Shoulder; 1 View",M25.50,"Pain In A Joint, Multiple Sites - M25.50",-,Orthopedic Surgery,Female,Op,OUT5895146,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0075,Radiology - Digital X-Ray Shoulder (Right),X-Ray,Basic,Basic,Investigation
+C22090131645,73070,"Radiologic Examination, Elbow; 2 Views",M25.50,"Pain In A Joint, Multiple Sites - M25.50",-,Orthopedic Surgery,Female,Op,OUT5895146,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0019,Radiology - Digital X-Ray Elbow (Right),X-Ray,Basic,Basic,Investigation
+C22090131645,73090,"Radiologic Examination; Forearm, 2 Views",M25.50,"Pain In A Joint, Multiple Sites - M25.50",-,Orthopedic Surgery,Female,Op,OUT5895146,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0033,Radiology - Digital X-Ray Forearm (Right),X-Ray,Basic,Basic,Investigation
+C22090131645,73060,"Radiologic Examination; Humerus, Minimum Of 2 Views",M25.50,"Pain In A Joint, Multiple Sites - M25.50",-,Orthopedic Surgery,Female,Op,OUT5895146,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0045,Radiology - Digital X-Ray Humerus (Right),X-Ray,Basic,Basic,Investigation
+C22090131645,73100,"Radiologic Examination, Wrist; 2 Views",M25.50,"Pain In A Joint, Multiple Sites - M25.50",-,Orthopedic Surgery,Female,Op,OUT5895146,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0106,Radiology - Digital X-Ray Wrist (Right),X-Ray,Basic,Basic,Investigation
+C22090131702,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Male,Op,OUT5903021,Yemenite,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090131716,15851,"Removal Of Sutures Under Anesthesia (Other Than Local), Other Surgeon",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Male,Op,OUT5900374,American,Qatari Riyal,Al Ahli Hospital - 113716,ORP0019,Removal Of Sutures,Orthopaedic Outpatient Procedure,Basic,Basic,Treatment
+C22090131717,97112,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Neuromuscular Reeducation Of Movement, Balance, Coordination, Kinesthetic Sense, Posture, And/Or Proprioception For Sitting And/Or Standing Activities",M25.50,"Pain In A Joint, Multiple Sites - M25.50",-,Orthopedic Surgery,Female,Op,OUT5898740,Pakistani,Qatari Riyal,Al Ahli Hospital - 113716,PST0002,Physiotherapy - Regular Visit At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment
+C22090131721,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Female,Op,OUT5903918,American,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090131746,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Male,Op,OUT5903420,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0065,Initial Emergency Services,Consultation,Basic,Basic,Consultation
+C22090131746,96375,"Therapeutic, Prophylactic, Or Diagnostic Injection (Specify Substance Or Drug); Each Additional Sequential Intravenous Push Of A New Substance/Drug (List Separately In Addition To Code For Primary Procedure)",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Male,Op,OUT5903420,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,SRV0094,Injection - I.V Injection With Fluid,Specail Outpatient Procedure,Basic,Basic,Investigation
+C22090131746,96372,"Therapeutic, Prophylactic, Or Diagnostic Injection (Specify Substance Or Drug); Subcutaneous Or Intramuscular",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Male,Op,OUT5903420,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,SRV0043,Injection - Intra Muscular,Specail Outpatient Procedure,Basic,Basic,Investigation
+C22090131756,97112,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Neuromuscular Reeducation Of Movement, Balance, Coordination, Kinesthetic Sense, Posture, And/Or Proprioception For Sitting And/Or Standing Activities",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Female,Op,OUT5898243,Sudanese,Qatari Riyal,Al Ahli Hospital - 113716,PST0002,Physiotherapy - Regular Visit At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment
+C22090131802,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",Z34.0,Supervision Of Normal First Pregnancy - Z34.0,-,Obstetrics And Gynecology,Female,Op,OUT5898288,Turkish,Qatari Riyal,Al Ahli Hospital - 113716,CON0018,Consultation - Obstetrics,Gynecology Consultation,Maternity,Maternity,Consultation
+C22090131802,59050,"Fetal Monitoring During Labor By Consulting Physician (Ie, Non-Attending Physician) With Written Report; Supervision And Interpretation",Z34.0,Supervision Of Normal First Pregnancy - Z34.0,-,Obstetrics And Gynecology,Female,Op,OUT5898288,Turkish,Qatari Riyal,Al Ahli Hospital - 113716,SRV0096,Ctg - 30 Mins,Radiology,Maternity,Maternity,Treatment
+C22090131803,97112,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Neuromuscular Reeducation Of Movement, Balance, Coordination, Kinesthetic Sense, Posture, And/Or Proprioception For Sitting And/Or Standing Activities",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Female,Op,OUT5897798,Moroccan,Qatari Riyal,Al Ahli Hospital - 113716,PST0002,Physiotherapy - Regular Visit At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment
+C22090131944,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Female,Op,OUT5895309,Lebanese,Qatari Riyal,Al Ahli Hospital - 113716,CON0065,Initial Emergency Services,Consultation,Basic,Basic,Consultation
+C22090131944,96375,"Therapeutic, Prophylactic, Or Diagnostic Injection (Specify Substance Or Drug); Each Additional Sequential Intravenous Push Of A New Substance/Drug (List Separately In Addition To Code For Primary Procedure)",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Female,Op,OUT5895309,Lebanese,Qatari Riyal,Al Ahli Hospital - 113716,SRV0094,Injection - I.V Injection With Fluid,Specail Outpatient Procedure,Basic,Basic,Investigation
+C22090131944,96372,"Therapeutic, Prophylactic, Or Diagnostic Injection (Specify Substance Or Drug); Subcutaneous Or Intramuscular",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Female,Op,OUT5895309,Lebanese,Qatari Riyal,Al Ahli Hospital - 113716,SRV0043,Injection - Intra Muscular,Specail Outpatient Procedure,Basic,Basic,Investigation
+C22090131954,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",O09.5,Duration Of Pregnancy 34-36 Completed Weeks - O09.5,-,Obstetrics And Gynecology,Female,Op,OUT5895202,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0018,Consultation - Obstetrics,Gynecology Consultation,Maternity,Maternity,Consultation
+C22090131954,59050,"Fetal Monitoring During Labor By Consulting Physician (Ie, Non-Attending Physician) With Written Report; Supervision And Interpretation",O09.5,Duration Of Pregnancy 34-36 Completed Weeks - O09.5,-,Obstetrics And Gynecology,Female,Op,OUT5895202,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,SRV0096,Ctg - 30 Mins,Radiology,Maternity,Maternity,Treatment
+C22090132118,87077,"Culture, Bacterial; Aerobic Isolate, Additional Methods Required For Definitive Identification, Each Isolate",Z35,Supervision Of High-Risk Pregnancy - Z35,-,Obstetrics And Gynecology,Female,Op,OUT5898573,Filipino,Qatari Riyal,Al Ahli Hospital - 113716,LAB00278,Low Vaginal Swab (Culture& Sensitivity),Lab,Maternity,Maternity,Investigation
+C22090132146,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Female,Op,OUT5903343,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Chronic Conditions,Consultation
+C22090132146,15851,"Removal Of Sutures Under Anesthesia (Other Than Local), Other Surgeon",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Female,Op,OUT5903343,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,ORP0019,Removal Of Sutures,Orthopaedic Outpatient Procedure,Basic,Chronic Conditions,Treatment
+C22090132174,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Female,Op,OUT5903235,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Chronic Conditions,Consultation
+C22090132214,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Male,Op,OUT5904138,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090132218,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",Z34.0,Supervision Of Normal First Pregnancy - Z34.0,-,Obstetrics And Gynecology,Female,Op,OUT5898589,Brazilian,Qatari Riyal,Al Ahli Hospital - 113716,CON0018,Consultation - Obstetrics,Gynecology Consultation,Maternity,Maternity,Consultation
+C22090132380,59050,"Fetal Monitoring During Labor By Consulting Physician (Ie, Non-Attending Physician) With Written Report; Supervision And Interpretation",Z34,Supervision Of Normal Pregnancy - Z34,-,Obstetrics And Gynecology,Female,Op,OUT5903408,Indian,Qatari Riyal,Al Ahli Hospital - 113716,SRV0096,Ctg - 30 Mins,Radiology,Maternity,Maternity,Treatment
+C22090132420,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.57,"Pain In A Joint, Ankle And Foot - M25.57",-,Orthopedic Surgery,Male,Op,OUT5902702,Sudanese,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090132420,29705,Removal Or Bivalving; Full Arm Or Full Leg Cast,M25.57,"Pain In A Joint, Ankle And Foot - M25.57",-,Orthopedic Surgery,Male,Op,OUT5902702,Sudanese,Qatari Riyal,Al Ahli Hospital - 113716,EMG0006,Cast Removal,Specail Outpatient Procedure,Basic,Basic,Treatment
+C22090132450,97112,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Neuromuscular Reeducation Of Movement, Balance, Coordination, Kinesthetic Sense, Posture, And/Or Proprioception For Sitting And/Or Standing Activities",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Male,Op,OUT5897625,British,Qatari Riyal,Al Ahli Hospital - 113716,PST0002,Physiotherapy - Regular Visit At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment
+C22090132454,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.51,"Pain In A Joint, Shoulder Region - M25.51",-,Orthopedic Surgery,Female,Op,OUT5903041,Jordanian,Qatari Riyal,Al Ahli Hospital - 113716,CON0065,Initial Emergency Services,Consultation,Basic,Basic,Consultation
+C22090132454,73020,"Radiologic Examination, Shoulder; 1 View",M25.51,"Pain In A Joint, Shoulder Region - M25.51",-,Orthopedic Surgery,Female,Op,OUT5903041,Jordanian,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0076,Radiology - Digital X-Ray Shoulder (Left),X-Ray,Basic,Basic,Investigation
+C22090132454,73000,"Radiologic Examination; Clavicle, Complete",M25.51,"Pain In A Joint, Shoulder Region - M25.51",-,Orthopedic Surgery,Female,Op,OUT5903041,Jordanian,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0017,Radiology - Digital X-Ray Clavicle (Left),X-Ray,Basic,Basic,Investigation
+C22090132497,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Female,Op,OUT5899801,Bangladeshi,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Chronic Conditions,Consultation
+C22090132500,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M17,Gonarthrosis [Arthrosis Of Knee] - M17,-,Orthopedic Surgery,Female,Op,OUT5903053,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Chronic Conditions,Consultation
+C22090132619,73721,"Magnetic Resonance (Eg, Proton) Imaging, Any Joint Of Lower Extremity; Without Contrast Material",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Female,Op,OUT5899865,Tunisian,Qatari Riyal,Al Ahli Hospital - 113716,MRIX0052,Radiology - Mri Knee (Left),Mri,Basic,Basic,Investigation
+C22090132619,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M23,Internal Derangement Of Knee - M23,-,Orthopedic Surgery,Female,Op,OUT5899865,Tunisian,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090132637,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Female,Op,OUT5903183,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090132637,29085,"Application, Cast; Hand And Lower Forearm (Gauntlet)",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Female,Op,OUT5903183,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,SRV0059,P.P.P - Ul -Below Elbow,Orthopaedic Outpatient Procedure,Basic,Basic,Treatment
+C22090132712,99214,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Detailed History;
+A Detailed Examination;
+Medical Decision Making Of Moderate Complexi",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Female,Op,OUT5900392,Syrian,Qatari Riyal,Al Ahli Hospital - 113716,CON0052,Orthopedic Follow-Up,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090132817,97112,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Neuromuscular Reeducation Of Movement, Balance, Coordination, Kinesthetic Sense, Posture, And/Or Proprioception For Sitting And/Or Standing Activities",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Female,Op,OUT5898034,Afghan,Qatari Riyal,Al Ahli Hospital - 113716,PST0002,Physiotherapy - Regular Visit At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment
+C22090132916,73721,"Magnetic Resonance (Eg, Proton) Imaging, Any Joint Of Lower Extremity; Without Contrast Material",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Female,Op,OUT5904429,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,MRIX0009,Radiology - Mri Ankle (Right),Mri,Basic,Chronic Conditions,Investigation
+C22090132962,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Female,Op,OUT5902882,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090133026,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.5,Pain In Joint - M25.5,-,Orthopedic Surgery,Female,Op,OUT5904891,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0020,Orthopedic Consultation,Orthopaedic Consultation,Basic,Basic,Consultation
+C22090133031,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",M25.56,"Pain In A Joint, Lower Leg - M25.56",-,Orthopedic Surgery,Female,Op,OUT5895189,Qatari,Qatari Riyal,Al Ahli Hospital - 113716,CON0065,Initial Emergency Services,Consultation,Basic,Basic,Consultation
+C22090133106,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",S92.21,"Fracture Of Navicular [Scaphoid], Foot - S92.21",-,Orthopedic Surgery,Female,Op,OUT5902996,Egyptian,Qatari Riyal,Al Ahli Hospital - 113716,CON0065,Initial Emergency Services,Consultation,Basic,Basic,Consultation
+C22090133106,29058,"Application, Cast; Plaster Velpeau",S92.21,"Fracture Of Navicular [Scaphoid], Foot - S92.21",-,Orthopedic Surgery,Female,Op,OUT5902996,Egyptian,Qatari Riyal,Al Ahli Hospital - 113716,EMG0024,Plaster Of Paris (P.O.P),Specail Outpatient Procedure,Basic,Basic,Treatment
+C22090133106,73660,"Radiologic Examination; Toe(S), Minimum Of 2 Views",S92.21,"Fracture Of Navicular [Scaphoid], Foot - S92.21",-,Orthopedic Surgery,Female,Op,OUT5902996,Egyptian,Qatari Riyal,Al Ahli Hospital - 113716,XRAY0030,Radiology - Digital X-Ray Foot (Right),X-Ray,Basic,Basic,Investigation
+C22090133111,99212,"Office Or Other Outpatient Visit For The Evaluation And Management Of An Established Patient, Which Requires At Least 2 Of These 3 Key Components:
+
+A Problem Focused History;
+A Problem Focused Examination;
+Straightforward Medical Decisi",Z35.8,Supervision Of Other High-Risk Pregnancies - Z35.8,-,Obstetrics And Gynecology,Female,Op,OUT5895624,Sri Lankan,Qatari Riyal,Al Ahli Hospital - 113716,CON0018,Consultation - Obstetrics,Gynecology Consultation,Maternity,Maternity,Consultation
+C22090133111,85345,Coagulation Time; Lee And White,Z35.8,Supervision Of Other High-Risk Pregnancies - Z35.8,-,Obstetrics And Gynecology,Female,Op,OUT5895624,Sri Lankan,Qatari Riyal,Al Ahli Hospital - 113716,LAB00234,"Coagulation Profile (Cbc,Pt/Inr, Ptt)",Lab,Maternity,Maternity,Investigation
+C22090133111,59050,"Fetal Monitoring During Labor By Consulting Physician (Ie, Non-Attending Physician) With Written Report; Supervision And Interpretation",Z35.8,Supervision Of Other High-Risk Pregnancies - Z35.8,-,Obstetrics And Gynecology,Female,Op,OUT5895624,Sri Lankan,Qatari Riyal,Al Ahli Hospital - 113716,SRV0096,Ctg - 30 Mins,Radiology,Maternity,Maternity,Investigation
+C22090133159,97110,"Therapeutic Procedure, 1 Or More Areas, Each 15 Minutes; Therapeutic Exercises To Develop Strength And Endurance, Range Of Motion And Flexibility",M54.5,Low Back Pain - M54.5,-,Orthopedic Surgery,Male,Op,OUT5898743,Moroccan,Qatari Riyal,Al Ahli Hospital - 113716,PST0001,Physiotherapy - Initial Assessment At (Aah) - 45 Minutes,Physiotherapy Expenses,Basic,Physiotherapy (Optional),Treatment

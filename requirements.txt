@@ -3,3 +3,5 @@ tqdm
 openpyxl
 matplotlib
 numpy
+seaborn
+tk # this may cause issues, which may require you to run: sudo apt-get install python3-tk

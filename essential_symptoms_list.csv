@@ -1,0 +1,98 @@
+ICD Code,ICD Description,Code in NLP engine (NLP),Avey Description (NLP),Avey code (Doctor’s opinion),Avey code description
+R196,Halitosis,115,halitosis,,
+R14,Flatulence and related conditions,76,depression,,Flatulence
+R80,Isolated proteinuria,91,hematuria,None,
+R093,Abnormal sputum,119,swelling in scrotum,N/A,
+R32,Unspecified urinary incontinence,109,urinary hesitancy,,Urinary incontinence
+R238,Other and unspecified skin changes,80,hyperpigmented skin lesion,N/A,
+R0989,Other specified symptoms and signs involving the respiratory system,131,dyspnea,N/A,
+R227,"Localised swelling, mass and lump, multiple sites",62,mass over lacrimal sac area,Multiple concepts,
+R682,"Dry mouth, unspecified",21,polydipsia,,Xerostomia
+R062,Wheezing,131,dyspnea,,Wheezing
+R100,Acute abdomen,84,abdominal bloating,,Abdominal pain
+R001,"Bradycardia, unspecified",122,tachycardia,,Bradycardia
+R0988,Other specified symptoms and signs involving the circulatory system,4,borborygmus,N/A,
+R160,"Hepatomegaly, not elsewhere classified",9,dyspareunia,N/A,
+R198,Other specified symptoms and signs involving the digestive system and abdomen,23,nausea,N/A,
+R040,Epistaxis,71,epistaxis,,
+R101,Pain localised to upper abdomen,129,abdominal tenderness,Multiple concepts,"Abdominal pain - Epigastric, Abdominal pain - Right hypochondrial, Abdominal pain - Left hypochondrial"
+R900,Intracranial space-occupying lesion,62,mass over lacrimal sac area,N/A,
+R251,"Tremor, unspecified",24,tremor,,
+R634,Abnormal weight loss,101,weight loss,,
+R829,Other and unspecified abnormal findings in urine,91,hematuria,Multiple concepts,
+R631,Polydipsia,21,polydipsia,,
+R268,Other and unspecified abnormalities of gait and mobility,35,bradykinesia,Multiple concepts,
+R398,Other and unspecified symptoms and signs involving the urinary system,109,urinary hesitancy,Multiple concepts,
+R072,Precordial pain,103,dysmenorrhea,Multiple concepts,
+R490,Dysphonia,69,hot potato voice,Multiple concepts,
+R05,Cough,74,vomiting,,Cough
+R55,Syncope and collapse,2,lose balance,,syncope
+R233,Spontaneous ecchymoses,14,onychoschizia,N/A,
+R391,Other difficulties with micturition,27,aphonia,Multiple concepts,
+R688,Other specified general symptoms and signs,57,seizures,N/A,
+R258,Other and unspecified abnormal involuntary movements,57,seizures,,Chorea
+R064,Hyperventilation,131,dyspnea,N/A,
+R229,"Localised swelling, mass and lump, unspecified",62,mass over lacrimal sac area,Multiple concepts,
+R260,Ataxic gait,29,back stiffness,,Ataxia
+R222,"Localised swelling, mass and lump, trunk",20,skin growth,Multiple concepts,
+R104,Other and unspecified abdominal pain,129,abdominal tenderness,,"Abdominal pain - Nonspecific, non-focal "
+R194,Change in bowel habit,113,fecal incontinence,Multiple concepts,
+R102,Pelvic and perineal pain,103,dysmenorrhea,N/A,
+R529,"Pain, unspecified",120,dyschezia,N/A,
+R073,Other chest pain,104,heartburn,,Chest pain
+R935,"Abnormal findings on diagnostic imaging of other abdominal regions, including retroperitoneum",102,abdominal mass,N/A,
+R070,Pain in throat,104,heartburn,,Sore throat
+R042,Haemoptysis,83,lymphadenopathy,,Cough - With bloody mucus
+R252,Cramp and spasm,103,dysmenorrhea,,Muscle cramps
+R309,"Painful micturition, unspecified",27,aphonia,,Dysuria
+R11,Nausea and vomiting,23,nausea,Multiple concepts,"Nausea, Vomiting"
+R630,Anorexia,33,anorexia or loss of appetite,,
+R234,Changes in skin texture,80,hyperpigmented skin lesion,Multiple concepts,
+R21,Rash and other nonspecific skin eruption,80,hyperpigmented skin lesion,Multiple concepts,"Skin erythema, Pimples or bumps"
+R71,Abnormality of red blood cells,36,weak immune system,N/A,
+R509,"Fever, unspecified",94,fever,,
+R190,"Intra-abdominal and pelvic swelling, mass and lump",102,abdominal mass,,
+R049,"Haemorrhage from respiratory passages, unspecified",71,epistaxis,N/A,
+R231,Pallor,127,pale conjunctiva,Multiple concepts,"Pale conjunctiva, Pale skin anywhere in the body"
+R221,"Localised swelling, mass and lump, neck",106,neck stiffness,,Mass or swelling at the neck
+R223,"Localised swelling, mass and lump, upper limb",25,swelling in arms,,Mass at upper extremities
+R220,"Localised swelling, mass and lump, head",10,bulging fontanels,N/A,
+R870,"Abnormal findings in specimens from female genital organs, abnormal level of enzymes",17,scrotum looks like a bag of worms,N/A,
+R091,Pleurisy,20,skin growth,,Chest pain - Occurs or worsens with deep inspiration
+R278,Other and unspecified lack of coordination,35,bradykinesia,N/A,
+R600,Localised oedema,59,angioedema,N/A,
+R635,Abnormal weight gain,101,weight loss,,Recent unexplained weight gain
+R13,Dysphagia,56,dysphagia,,
+R068,Other and unspecified abnormalities of breathing,131,dyspnea,N/A,
+R91,Abnormal findings on diagnostic imaging of lung,30,nasal congestion,N/A,
+R35,Polyuria,91,hematuria,,Polyuria
+R202,Paraesthesia of skin,66,numbness or tingling in lower extremities,Multiple concepts,
+R520,Acute pain,68,eye pain,Multiple concepts,
+R002,Palpitations,127,pale conjunctiva,,Palpitation
+R262,"Difficulty in walking, not elsewhere classified",72,sudden inability to stand on toes,,Trouble walking
+R000,"Tachycardia, unspecified",122,tachycardia,,
+R103,Pain localised to other parts of lower abdomen,47,heavy sensation or pressure in the groin,Multiple concepts,"Abdominal pain - Hypogastric or pelvic, Abdominal pain - Right iliac pain, Abdominal pain - Left iliac pain"
+R300,Dysuria,91,hematuria,,Dysuria
+R224,"Localised swelling, mass and lump, lower limb",85,mass at lower extremities,,
+R508,Other specified fever,94,fever,,
+R008,Other and unspecified abnormalities of heart beat,122,tachycardia,Multiple concepts,
+R071,Chest pain on breathing,131,dyspnea,,Chest pain - Occurs or worsens with deep inspiration
+R195,Other faecal abnormalities,37,galactorrhea,N/A,
+R53,Malaise and fatigue,54,fatigue,,
+R599,"Enlarged lymph nodes, unspecified",83,lymphadenopathy,,
+R074,"Chest pain, unspecified",104,heartburn,,Chest pain
+R51,Headache,65,headache,,
+R12,Heartburn,104,heartburn,,
+R294,Clicking hip,52,cracking of fingers during regular movement,N/A,
+R030,"Elevated blood-pressure reading, without diagnosis of hypertension",104,heartburn,,Hypertensive
+R31,Unspecified haematuria,59,angioedema,,Hematuria
+R891,"Abnormal findings in specimens from other organs, abnormal level of hormones",37,galactorrhea,N/A,
+R798,Other specified abnormal findings of blood chemistry,91,hematuria,N/A,
+R633,Feeding difficulties and mismanagement,56,dysphagia,N/A,
+R73,Elevated blood glucose level,104,heartburn,,Hyperglycemia
+R270,"Ataxia, unspecified",131,dyspnea,,Ataxia
+R011,"Cardiac murmur, unspecified",122,tachycardia,N/A,
+R42,Dizziness and giddiness,2,lose balance,,Dizziness
+R609,"Oedema, unspecified",59,angioedema,Multiple concepts,
+R876,"Abnormal findings in specimens from female genital organs, abnormal cytological findings",17,scrotum looks like a bag of worms,N/A,
+R060,Dyspnoea,131,dyspnea,,
